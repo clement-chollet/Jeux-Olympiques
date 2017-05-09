@@ -3,7 +3,7 @@
         <tr>
             <td align="center"><a href="Historique">Historique</a></td>
             <td align="center"><a href="Programme">Programme</a></td>
-            <td align="center"><a href="Organisation">Organisation</a></td>
+            <td align="center"><b><a href="Organisation">Organisation</a></b></td>
             <td align="center"><a href="Champions">Champions et médaillés</a></td>
             <td align="center"><a href="Enjeux">Enjeux économiques et médiatiques</a></td>
             <td align="center"><a href="Politique">Olympisme et politique</a></td>
