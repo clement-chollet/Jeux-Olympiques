@@ -2,12 +2,12 @@
 <table>
     <thead>
         <tr>
-            <th style="text-align:center" >[Historique](Historique.md)</th>
-            <th style="text-align:center">[Programme sportif](Programme.md)</th>
-            <th style="text-align:center">[Organisation](Organisation.md)</th>
-            <th style="text-align:center">[Champions et médaillés](Champions.md)</th>
-            <th style="text-align:center">[Enjeux économiques et médiatiques](Enjeux.md)</th>
-            <th style="text-align:center">[Olympisme et politique](Politique.md)</th>
+            <th align="center" >[Historique](Historique.md)</th>
+            <th align="center">[Programme sportif](Programme.md)</th>
+            <th align="center">[Organisation](Organisation.md)</th>
+            <th align="center">[Champions et médaillés](Champions.md)</th>
+            <th align="center">[Enjeux économiques et médiatiques](Enjeux.md)</th>
+            <th align="center">[Olympisme et politique](Politique.md)</th>
         </tr>
     </thead>
 </table>
