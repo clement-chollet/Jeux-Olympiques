@@ -6,7 +6,7 @@
             <td align="center"><a href="Organisation">Organisation</a></td>
             <td align="center"><a href="Champions">Champions et médaillés</a></td>
             <td align="center"><a href="Enjeux">Enjeux économiques et médiatiques</a></td>
-            <td align="center"><a href="Politique">Olympisme et politique</a></td>
+            <td align="center"><b><a href="Politique">Olympisme et politique</a></b></td>
         </tr>
     </thead>
 </table>
