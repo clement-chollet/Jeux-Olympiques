@@ -30,3 +30,5 @@ En 1988, Cuba, l'Éthiopie et le Nicaragua boycottent les Jeux de Séoul pour pr
 En 1996, lors des Jeux olympiques d'Atlanta, une bombe explose sur la place principale de la ville, tuant deux personnes et en blessant cent onze.
 
 Un mouvement de protestation, mené par Reporters sans frontières, tente de convaincre le plus de pays possible de boycotter la cérémonie d'ouverture des Jeux olympiques de Pékin en 2008 pour protester contre le bafouement des droits de l'homme en République populaire de Chine. Ce mouvement de protestation se manifesta particulièrement durant le passage de la flamme olympique, notamment à Paris.
+
+_Source : wikipedia.org_
