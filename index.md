@@ -1,32 +1,15 @@
 ## Jeux olympiques
-[Historique](Historique.md) | [Programme sportif](Programme.md) | [Organisation](Organisation.md) | [Champions et médaillés](Champions.md) | [Enjeux économiques et médiatiques](Enjeux.md) | [Olympisme et politique](Politique.md)
-
-
 <table>
     <thead>
         <tr>
-            <th>header 1</th>
-            <th align="center">header 2</th>
-            <th align="right">header 3</th>
+            <th>[Historique](Historique.md)</th>
+            <th>[Programme sportif](Programme.md)</th>
+            <th>[Organisation](Organisation.md)</th>
+            <th>[Champions et médaillés](Champions.md)</th>
+            <th>[Enjeux économiques et médiatiques](Enjeux.md)</th>
+            <th>[Olympisme et politique](Politique.md)</th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td>line 1</td>
-            <td align="center">1</td>
-            <td align="right">value</td>
-        </tr>
-        <tr>
-            <td>row 2</td>
-            <td align="center">2</td>
-            <td align="right">value</td>
-        </tr>
-        <tr>
-            <td>line 3</td>
-            <td align="center">3</td>
-            <td align="right">value</td>
-        </tr>
-    </tbody>
 </table>
 
 ### Introduction
