@@ -1,3 +1,5 @@
+[Historique](Historique.md) | [Programme sportif](Programme.md) | [Organisation](Organisation.md) | [Champions et médaillés](Champions.md) | [Enjeux économiques et médiatiques](Enjeux.md) | [Olympisme et politique](Politique.md)
+
 ### Jeux olympiques antiques
 
 Le programme des compétitions se met progressivement en place. Lors de la première édition des jeux (776 av. J.-C.), une seule épreuve est disputée : c'est la course pédestre du stade (environ 192 m). En 776 av. J.-C., la course pédestre du double stade (diaulos) est introduite dans le programme, puis quatre ans plus tard, la première épreuve de fond fait son apparition : le dolichos, soit 24 stades (environ 4 600 m). Le pentathlon est introduit au programme olympique en 708 av. J.-C. en même temps que la lutte. Le pugilat arrive en 688 av. J.-C. et le pancrace en 648 av. J.-C. La course d’hoplites (course pédestre en tenue militaire) fait son entrée au programme en 520 av. J.-C.
