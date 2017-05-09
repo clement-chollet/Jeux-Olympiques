@@ -34,4 +34,6 @@ Le CIO a souvent été critiqué car c’est une organisation intraitable, avec 
 
 Un documentaire de la BBC intitulé Panorama:Buying the Games diffusé en août 2004, retrace l’enquête qui eut lieu sur les pots de vin lors de la sélection de la ville organisatrice pour les Jeux olympiques d'été de 201240. Le documentaire montra qu’il était possible d’acheter les membres du CIO afin qu’ils votent pour une ville en particulier. Après la défaite de Paris pour les Jeux de 201241, Bertrand Delanoë accusa en particulier Tony Blair, Premier Ministre Anglais, et le comité londonien (dont Sebastian Coe était à la tête) d’enfreindre les règles des votes. Il cita comme témoin Jacques Chirac42. La sélection de Turin pour les Jeux olympiques d'hiver de 2006 fut aussi controversée. Marc Hodler, éminent membre du CIO, et en faveur de la ville concurrente de Sion en Suisse, affirma que certains membres du CIO avaient été achetés par le Comité d’organisation de Turin. Ces accusations menèrent à une enquête et desservirent la candidature de Sion en faveur de Turin
 
+_Source : wikipedia.org_
+
 
