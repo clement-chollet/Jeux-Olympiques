@@ -1,5 +1,5 @@
 ## Jeux olympiques
-[| Historique |](Historique.md) [| Programme sportif |](Programme.md) [| Organisation |](Organisation.md) [| Champions et médaillés |](Champions.md) [| Enjeux économiques et médiatiques |](Enjeux.md) [| Olympisme et politique |](Politique.md)
+[Historique](Historique.md) | [Programme sportif](Programme.md) | [Organisation](Organisation.md) | [Champions et médaillés](Champions.md) | [Enjeux économiques et médiatiques](Enjeux.md) | [Olympisme et politique](Politique.md)
 
 
 ### Introduction
