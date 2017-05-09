@@ -1,5 +1,6 @@
 ## Jeux olympiques
-[Page2](Page2.md) and ![Image](src)
+[En savoir plus](Page2.md)
+
 ### Introduction
 ```markdown
 Les Jeux olympiques (appelés aussi les JO, les Jeux, les Olympiades ou encore les Olympiques; en anglais: Olympic Games ou Olympics; en grec ancien : οἱ Ὀλυμπιακοὶ ἀγῶνες (hoi Olympiakoì agônes), en grec moderne : Ολυμπιακοί αγώνες (Olympiakí agónes), également Oλυμπιάδα (Olympiáda), c'est-à-dire Olympiade) sont un événement international majeur, regroupant les sports d’été et d’hiver, auquel des milliers d’athlètes participent. Les Jeux olympiques se tiennent tous les quatre ans, les années paires, en alternant Jeux olympiques d'été et Jeux olympiques d'hiver : quatre ans entre deux éditions des Jeux olympiques d'été ou d'hiver et deux ans entre les Jeux olympiques d'été et ceux d'hiver. Originellement tenus dans le centre religieux d’Olympie, dans la Grèce antique du VIIIe siècle av. J.-C. au Ve siècle apr. J.-C., les Jeux ont été rénovés par le baron Pierre de Coubertin en 1894 lorsqu’il fonda le Comité international olympique (CIO), les premiers Jeux olympiques modernes s’étant déroulés en 1896. Depuis lors, le CIO est devenu l’organisation gouvernant le mouvement olympique dont la structure et les décisions sont définies par la Charte olympique.
