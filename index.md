@@ -8,7 +8,7 @@ Pendant le XXe siècle, le CIO a adapté selon sa vision propre les Jeux aux cha
 
 Actuellement, les mouvements olympiques comprennent les fédérations sportives internationales, les comités nationaux olympiques et l’organisation de comités pour chaque édition des Jeux olympiques. La ville hôte est chargée d’organiser et de trouver des fonds pour les Jeux olympiques de manière à ce qu’ils soient en accord avec la Charte olympique. Le CIO décide aussi des sports présents ou non à chaque édition. La célébration des Jeux inclut de nombreux rituels et des symboles, comme le drapeau olympique et la flamme olympique, ainsi que les cérémonies d’ouverture et de clôture . Les trois meilleurs athlètes ou équipes de chaque compétition reçoivent respectivement une médaille d’or (1re place), d’argent (2e place) et de bronze (3e place). Les Jeux olympiques sont devenus si importants que presque chaque nation est représentée. Une telle ampleur a généré de nombreux défis, comme le boycott, le dopage, la corruption (Salt Lake City) et le terrorisme. Tous les deux ans, les Jeux et leur exposition médiatique permettent à des athlètes d'acquérir une notoriété nationale, voire mondiale dans certains cas. Les Jeux sont aussi une excellente occasion pour la ville hôte et le pays d'accueil d'assurer leur promotion sur la scène internationale.
 
-_Source : wikipedia.org_
+                                                                                      _Source : wikipedia.org_
 
 
 ```
