@@ -1,4 +1,3 @@
-## Jeux olympiques
 <table>
     <thead>
         <tr>
