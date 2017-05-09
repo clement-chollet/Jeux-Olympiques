@@ -1,5 +1,4 @@
 ## Jeux olympiques
-[En savoir plus](Page2.md)
 
 ### Introduction
 
@@ -28,3 +27,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[|En savoir plus|](Page2.md)
