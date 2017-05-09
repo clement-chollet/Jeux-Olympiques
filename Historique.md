@@ -44,3 +44,5 @@ Après le succès initial des épreuves à Athènes en 1896, les olympiades de P
 Les jeux olympiques intercalaires de 1906 d'Athènes, non reconnus ultérieurement par le CIO, marquèrent un regain d'intérêt du public et des athlètes, avec une participation très internationale alors que 80 % des sportifs ayant pris part aux jeux de Saint-Louis étaient américains. Les nations européennes avaient en effet renoncé à faire le long et coûteux déplacement outre-Atlantique.
 
 De 241 athlètes de 14 nations en 1896, les Jeux passent à 10 568 sportifs représentant 204 délégations lors des jeux olympiques de Londres en 2012. C'est désormais l'un des événements les plus médiatisés. Les jeux de Sydney en 2000 réunissent ainsi plus de 16 000 journalistes et diffuseurs. La dimension de l'épreuve est telle que cela pose des problèmes aux villes hôtes, que le sponsoring ne couvre que partiellement. Les villes hôtes profitent en effet des Jeux pour s'équiper en transports en commun et autres équipements sportifs, notamment. À titre d'exemple, le budget estimé des Jeux de Londres en 2012 est de 9 milliards de livres sterling.
+
+_Source : wikipedia.org_
