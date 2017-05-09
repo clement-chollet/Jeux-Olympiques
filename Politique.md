@@ -1,7 +1,7 @@
 <table>
     <thead>
         <tr>
-            <th align="center" >[Historique](Historique.md)</th>
+        <th align="center" ><a href="Historique">Historique</a></th>
             <th align="center">[Programme sportif](Programme.md)</th>
             <th align="center">[Organisation](Organisation.md)</th>
             <th align="center">[Champions et médaillés](Champions.md)</th>
