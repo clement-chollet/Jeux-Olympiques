@@ -41,3 +41,5 @@ Le CIO doit désormais composer avec les Fédérations internationales gérant l
 Le nombre des participants aux Jeux olympiques d'hiver est plus modeste avec environ 2 500 athlètes à Turin en 2006. Et du côté du programme, on cherche plutôt à l'étoffer. Certaines disciplines de salle ont été approchées pour passer des JO d'été à ceux d'hiver mais les fédérations internationales concernées ont refusé.
 
 Afin de contenir l'expansion, le nombre d'athlètes participants aux Jeux est désormais plafonné à 10 500 en été et les participants doivent désormais réaliser des minima dans les disciplines chiffrées ou profiter de quotas olympiques gagnés lors des grandes compétitions précédant les jeux. Pour permettre à toutes les nations de participer, les minima sont à géométrie variable selon les nations et un Comité olympique n'ayant aucun athlète qualifié aux Jeux profite d'invitations, généralement en athlétisme, natation, judo ou haltérophilie pour les Jeux d'été.
+
+_Source : wikipedia.org_
