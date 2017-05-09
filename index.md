@@ -11,7 +11,7 @@
     </thead>
 </table>
 
-![JO](https://previews.123rf.com/images/boroda/boroda1203/boroda120300007/12971698-Jeux-olympiques-d-anneaux-symbole-des-jeux-olympiques-Isol-sur-fond-illustration-vectorielle-blanc-Banque-d'images.jpg)
+![JO](http://www.larousse.fr/encyclopedie/data/images/1009519-Drapeau_des_jeux_Olympiques.jpg)
 
 
 ### Introduction
