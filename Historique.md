@@ -1,3 +1,5 @@
+[Historique](Historique.md) | [Programme sportif](Programme.md) | [Organisation](Organisation.md) | [Champions et médaillés](Champions.md) | [Enjeux économiques et médiatiques](Enjeux.md) | [Olympisme et politique](Politique.md)
+
 ### Jeux olympiques antiques
 
 De nombreuses légendes entourent l'origine des Jeux olympiques antiques. L'une dit qu'Héraclès construisit le stade olympique ainsi que les bâtiments alentours en l'honneur de son père Zeus, après avoir accompli ses douze travaux. Il aurait également défini la longueur du stade olympique en l'arpentant avec la longueur de son pied en avançant de 600 pas.
